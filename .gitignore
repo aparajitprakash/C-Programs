@@ -1,0 +1,19 @@
+# Compiled executable files
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Windows system file
+Thumbs.db
+
+# macOS system file
+.DS_Store
