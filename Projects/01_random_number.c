@@ -6,7 +6,7 @@
 int main(){
     srand(time(NULL));
     int random_number = rand() % 100+1;
-    printf("%d\n",random_number);
+    // printf("%d\n",random_number);
 
     int guess_number;
     int count=0;
@@ -42,7 +42,11 @@ int main(){
     } while( guess_number != random_number &&  n != 0 ); 
 
     if (n==0){
+        printf("\n----- STOP -----");
         printf("\nYour %d attempts is over ",i );
+        printf("\nThe number was %d\n",random_number);
+        printf("\n---BETTER LUCK NEXT TIME----");
+
     }
 
     if (guess_number == random_number){
