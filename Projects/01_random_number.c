@@ -13,7 +13,7 @@ int main(){
     int n;
     printf("Guess the  number between 1-100\n");
 
-    printf("How much attempts you want to guess the number: ");
+    printf("How much attempts you want to take to guess the number: ");
     scanf("%d", &n);
     int i = n;
 
@@ -46,6 +46,7 @@ int main(){
         printf("\nYour %d attempts is over ",i );
         printf("\nThe number was %d\n",random_number);
         printf("\n---BETTER LUCK NEXT TIME----");
+        printf("\n--Thank You--");
 
     }
 
@@ -53,5 +54,7 @@ int main(){
 
         printf("\nYou guessed it at %d times", count);
     }
+
+
     return 0;
 }
