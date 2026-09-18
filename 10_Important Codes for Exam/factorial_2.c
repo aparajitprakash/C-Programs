@@ -7,6 +7,8 @@
         printf("Enter the number: ");
         scanf("%d", &n);
 
+         printf("Factorial for 1 to %d:\n ",n );  
+
         for(int j=1; j<=n; j++){
             
             fact = 1;
