@@ -1,3 +1,4 @@
+// Factorial from 1 to Given number (n).
 #include <stdio.h>
 
     int main(){

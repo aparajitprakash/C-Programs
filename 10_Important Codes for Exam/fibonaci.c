@@ -18,8 +18,6 @@
             first = second;
             second = sum;
 
-
-
         }
 
     return 0;

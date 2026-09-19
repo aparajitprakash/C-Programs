@@ -25,9 +25,9 @@
          }
 
          if ( sum==copy ){
-            printf("Armsrong Number");
+            printf("Armstrong Number");
          }else
-            printf("Not a Armsrong Number");
+            printf("Not a Armstrong Number");
 
     return 0;
 
