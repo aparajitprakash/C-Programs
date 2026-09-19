@@ -26,9 +26,8 @@
                 // Factorial of all 
                 for(int j=last; j>=1; j--){
                     fact*=j;
-                }
-
-
+                }      
+                
             // printf("%d ", fact); 
             sum += fact;
             n=n/10; // Removes the last digit
