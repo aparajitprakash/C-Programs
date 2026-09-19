@@ -1,5 +1,5 @@
 // 18-09-26
-// If the Reverse number and the Original number is save, then it is called as Palindrome.
+// If the Reverse number and the Original number is same, then it is called as Palindrome.
 #include <stdio.h>
 
     int main(){
