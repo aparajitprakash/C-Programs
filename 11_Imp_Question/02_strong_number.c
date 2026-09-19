@@ -23,10 +23,11 @@
             int last = n%10; // Gives the last digit
             fact=1;
 
-                // Factorial 
+                // Factorial of all 
                 for(int j=last; j>=1; j--){
                     fact*=j;
                 }
+
 
             // printf("%d ", fact); 
             sum += fact;
