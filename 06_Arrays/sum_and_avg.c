@@ -4,6 +4,7 @@
     int main(){
 
         int n;
+        float sum=0;
         printf("Enter the size of the number ");
         scanf("%d", &n);
 
@@ -13,7 +14,6 @@
           for( i=0; i<n; i++){
            scanf("%d", &arr[i]);
         }
-          float sum=0;
          for(int i=0; i<n; i++){
             sum += arr[i];
         }
