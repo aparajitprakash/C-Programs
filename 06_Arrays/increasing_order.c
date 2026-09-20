@@ -1,5 +1,5 @@
 // 20-09-26
-// Check wheather the array is in increasing order or not 
+// Check whether the array is in increasing order or not 
 // I have done this code totaly using my own logic 
 // If you want to see better code see- increasing order 2
 

@@ -1,5 +1,5 @@
 // 20-09-26
-// Check wheather the array is in increasing order or not 
+// Check whether the array is in increasing order or not 
 // Better code than first one 
 #include <stdio.h>
 
