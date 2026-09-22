@@ -21,7 +21,8 @@ int main(){
                 printf("%d ", transprose[i][j]);
             }
             printf("\n");
-        }        
+        }   
+             
      return 0;
 
 }
