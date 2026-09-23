@@ -10,6 +10,8 @@ int main(){
     
     int sum = sum_of_digits(n);
     printf("Sum of digits: %d", sum);
+
+    return 0;
 }
 
 int sum_of_digits(int n){
