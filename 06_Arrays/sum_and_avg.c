@@ -1,11 +1,12 @@
 // 20-09-26
+// Very Imp Question for exam - Find the sum of all the elements in the array 
 #include <stdio.h>
 
     int main(){
 
         int n;
         float sum=0;
-        printf("Enter the size of the number ");//5
+        printf("Enter the size of the array ");//5
         scanf("%d", &n);
 
         int i;
