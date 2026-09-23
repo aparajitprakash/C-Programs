@@ -11,7 +11,7 @@ int main(){
      for(int i=4; i>=0; i--){ // i=4 / i= n-1 / i= size-1
         printf("%d ", arr[i]);
      }
-    //  printf("\n%d ", size);
+
         
      return 0;
 
