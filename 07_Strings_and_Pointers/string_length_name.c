@@ -3,7 +3,7 @@
 int main()
 {
     char name[100];
-    scanf( "%s", name);
+    scanf( "%[^\n]s", name); // used "%[^\n]s" take full name 
     printf("%s\n", name );
 
     // fgets(name, 100, stdin); /*aparajit*/
