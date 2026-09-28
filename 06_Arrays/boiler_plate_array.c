@@ -1,3 +1,5 @@
+// Boiler plate code for array
+
 #include <stdio.h>
 
 int main(){
