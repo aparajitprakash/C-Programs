@@ -7,10 +7,4 @@ int main()
     float final_cost;
     int price[3];
 
-    printf("Enter the 1st price: ");
-    scanf("%d", &price[0]);
-
-    printf("Enter the 2nd price: ");
-    scanf("%d", &price[1]);
-
 }
